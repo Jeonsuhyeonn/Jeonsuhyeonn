@@ -1,6 +1,6 @@
 ## Welcome to Suhyeon Github 👋
 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=slice)
 
 <!--
 **Jeonsuhyeonn/Jeonsuhyeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
