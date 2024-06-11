@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFC0CB,100:FF69B4)
-
 ## Welcome to Suhyeon Github 👋
 
 
