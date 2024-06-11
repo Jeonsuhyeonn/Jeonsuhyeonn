@@ -1,5 +1,3 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFC0CB,100:FF69B4&text=Welcome&nbsp;to&nbsp;Suhyeon&nbsp;Github&fontAlign=30&fontSize=30&fontColor=FFC0CB)
 
-fontColor=FFC0CB
-
-Welcome to Suhyeon Github
+ <p style="color: #FFC0CB;">Welcome to Suhyeon Github</p>
