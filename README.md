@@ -1,6 +1,6 @@
 ## Welcome to Suhyeon Github 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&&color=auto)
+![header](https://capsule-render.vercel.app/api?type=Waving&&&color=_custom_gradient : Custom gradient)
 
 
 
