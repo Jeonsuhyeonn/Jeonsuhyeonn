@@ -5,8 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonsuhyeonn)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonsuhyeonn&bg_color=000000&text_color=98FB98)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
