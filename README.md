@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFC0CB,100:FF69B4)
 ## Welcome to Suhyeon Github 👋
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![footer](https://capsule-render.vercel.app/api?section=footer)
 <!--
 **Jeonsuhyeonn/Jeonsuhyeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
