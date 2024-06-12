@@ -29,13 +29,11 @@
           </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Jeonsuhyeonn&bg_color=180,ffebf6,00000000&title_color=756fa5&text_color=756fa5"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonsuhyeonn&layout=compact&bg_color=180,ffebf6,00000000&title_color=756fa5&text_color=756fa5"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Jeonsuhyeonn&bg_color=180,ffebf6,00000000&title_color=fd77eb&text_color=fd77eb"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonsuhyeonn&layout=compact&bg_color=180,ffebf6,00000000&title_color=fd77eb&text_color=fd77eb"
            /> </div> 
     </div>
-
-
-
+    
 
 
 
