@@ -5,6 +5,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonsuhyeonn&title_color=FF82C8)](https://github.com/anuraghazra/github-readme-stats)
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=suhyeon&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeonsuhyeonn&title_color=FF82C8" alt="Top Languages">
+</div>
+
+
 
 
 
